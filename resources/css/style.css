@@ -1,0 +1,15 @@
+
+
+#title {font-size: 50px; color: white;
+}
+h2 {font-size: 42px; color: white;
+}
+h3 {font-size: 21px; color: gray;
+}
+body {background-color: black;
+  font-family: Verdana;
+  font-weight: normal;
+  text-align: center;
+}
+a {font-size: 16px; color: aquamarine;}
+#copyright {text-align: right;}
